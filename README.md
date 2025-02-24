@@ -47,19 +47,6 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 🏗 Projects
-<p>
-  <a href="https://github.com/jwkim960315/sugoku">
-    <img alt="Sugoku" src="https://github-readme-stats.vercel.app/api/pin/?username=jwkim960315&repo=sugoku" />
-  </a>
-  <a href="https://github.com/jwkim960315/WesHack">
-    <img alt="WesHack" src="https://github-readme-stats.vercel.app/api/pin/?username=jwkim960315&repo=WesHack" />
-  </a>
-  <a href="https://github.com/jwkim960315/WesCourse">
-    <img alt="WesCourse" src="https://github-readme-stats.vercel.app/api/pin/?username=jwkim960315&repo=WesCourse" />
-  </a>
-</p>
-
 ### 🌐 Connect with Me
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jwseankim)
 [![Warpcast](https://img.shields.io/badge/Warpcast-472b8d?style=for-the-badge&logoColor=white)](https://warpcast.com/jwskim.eth)
